@@ -1,6 +1,6 @@
 site_name: Apunts AOF
 site_description: Apunts del mòdul Aplicacions Ofimàtiques
-site_url: https://<el-teu-usuari>.github.io/<el-teu-repo>/
+site_url: https://jpardo20.github.io/mkdocs-aula-starter/
 
 # 🧭 Navegació: exposa només el que vols que es vegi
 nav:
@@ -31,4 +31,5 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/<el-teu-usuari>/<el-teu-repo>
+      link: https://github.com/jpardo20/mkdocs-aula-starter/
+
