@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://&lt;el-teu-usuari&gt;.github.io/&lt;el-teu-repo&gt;/</loc>
+         <loc>https://jpardo20.github.io/mkdocs-aula-starter/</loc>
          <lastmod>2025-09-24</lastmod>
     </url>
     <url>
-         <loc>https://&lt;el-teu-usuari&gt;.github.io/&lt;el-teu-repo&gt;/unitat1/</loc>
+         <loc>https://jpardo20.github.io/mkdocs-aula-starter/unitat1/</loc>
          <lastmod>2025-09-24</lastmod>
     </url>
     <url>
-         <loc>https://&lt;el-teu-usuari&gt;.github.io/&lt;el-teu-repo&gt;/unitat1/activitat1/</loc>
+         <loc>https://jpardo20.github.io/mkdocs-aula-starter/unitat1/activitat1/</loc>
          <lastmod>2025-09-24</lastmod>
     </url>
     <url>
-         <loc>https://&lt;el-teu-usuari&gt;.github.io/&lt;el-teu-repo&gt;/unitat2/</loc>
+         <loc>https://jpardo20.github.io/mkdocs-aula-starter/unitat2/</loc>
          <lastmod>2025-09-24</lastmod>
     </url>
     <url>
-         <loc>https://&lt;el-teu-usuari&gt;.github.io/&lt;el-teu-repo&gt;/unitat2/activitat1/</loc>
+         <loc>https://jpardo20.github.io/mkdocs-aula-starter/unitat2/activitat1/</loc>
          <lastmod>2025-09-24</lastmod>
     </url>
 </urlset>
