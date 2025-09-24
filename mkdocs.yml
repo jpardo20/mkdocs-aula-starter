@@ -1,0 +1,34 @@
+site_name: Apunts AOF
+site_description: Apunts del mòdul Aplicacions Ofimàtiques
+site_url: https://<el-teu-usuari>.github.io/<el-teu-repo>/
+
+# 🧭 Navegació: exposa només el que vols que es vegi
+nav:
+  - Inici: index.md
+  - Unitat 1:
+      - Introducció: unitat1/index.md
+      - Activitat 1: unitat1/activitat1.md
+#  - Unitat 2:           # 👉 Quan vulguis obrir la Unitat 2, descomenta aquest bloc
+#      - Introducció: unitat2/index.md
+#      - Activitat 1: unitat2/activitat1.md
+
+theme:
+  name: material
+  language: ca
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - attr_list
+  - def_list
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/<el-teu-usuari>/<el-teu-repo>
